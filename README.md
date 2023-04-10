@@ -38,7 +38,9 @@ Normalizing the data
 Splitting the data into test and train
 
 ## PROGRAM:
-```py
+NAME : PRAGATHEESVARAN AB
+REG NO : 2122221240039
+ ```py
 import pandas as pd
 import numpy as np
 
